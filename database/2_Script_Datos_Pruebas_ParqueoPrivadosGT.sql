@@ -2,10 +2,6 @@
   SCRIPT DML - DATOS DE PRUEBA
   BASE DE DATOS: db_ParqueoPrivadosGT
   MOTOR: PostgreSQL
-
-  IMPORTANTE:
-  - Ejecutar conectado directamente a la base de datos db_parqueoprivadosgt.
-  - PostgreSQL no utiliza USE ni GO.
 ==============================================================*/
 
 INSERT INTO Tbl_Sedes
